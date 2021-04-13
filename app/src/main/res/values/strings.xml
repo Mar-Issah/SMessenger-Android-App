@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMessenger</string>
+    <string name="send">Send Message</string>
+    <string name="message">Enter a message</string>
+    <string name="chooser">Send message via…</string>
+
+    <string name="image">image</string>
+    <string name="trademark">Developed by Marsiya Issah</string>
+
+</resources>
